@@ -1,6 +1,6 @@
 //
 //  main.m
-//  EROSWALLET
+//  ERW
 //
 //  Created by nestcode on 3/27/18.
 //  Copyright © 2018 nestcode. All rights reserved.

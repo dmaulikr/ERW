@@ -7,7 +7,40 @@
 		<key>EROSWALLET.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>EROSWALLET.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>EROSWALLETUITests copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>904DF4DC206A1366002A23C5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>904DF4F4206A1366002A23C5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>904DF4FF206A1366002A23C5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90885F3A20E6084000C1EC2C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

@@ -1,6 +1,6 @@
 //
-//  EROSWALLETTests.m
-//  EROSWALLETTests
+//  ERWTests.m
+//  ERWTests
 //
 //  Created by nestcode on 3/27/18.
 //  Copyright © 2018 nestcode. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface EROSWALLETTests : XCTestCase
+@interface ERWTests : XCTestCase
 
 @end
 
-@implementation EROSWALLETTests
+@implementation ERWTests
 
 - (void)setUp {
     [super setUp];
